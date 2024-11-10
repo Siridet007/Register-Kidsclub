@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+
+@font-face {
+  font-family: 'DBHelvethaicaX-55Regular';
+  src: url('DBHelvethaicaX-55Regular.woff') format('woff'),
+       url('fonts/DBHelvethaicaX-55Regular.ttf') format('truetype'),
+       url('fonts/DBHelvethaicaX-55Regular.svg#DBHelvethaicaX-55Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'DBHelvethaicaX-75Bd';
+  src: url('fonts/DBHelvethaicaX-75Bd.woff') format('woff'),
+       url('fonts/DBHelvethaicaX-75Bd.ttf') format('truetype'),
+       url('fonts/DBHelvethaicaX-75Bd.svg#DBHelvethaicaX-75Bd') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Roboto-Bold';
+  src: url('fonts/Roboto-Bold.woff') format('woff'),
+       url('fonts/Roboto-Bold.ttf') format('truetype'),
+       url('fonts/DBHelvethaicaX-75Bd.svg#DBHelvethaicaX-75Bd') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
